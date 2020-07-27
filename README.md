@@ -1,2 +1,2 @@
-# StudyC-
+# StudyC++
 my c++ learining project
