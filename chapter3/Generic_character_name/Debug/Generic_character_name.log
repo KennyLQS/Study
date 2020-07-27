@@ -1,0 +1,4 @@
+﻿  generic_character_name.cpp
+E:\Learning\C++\Primer_Plus\chapter3\Generic_character_name\generic_character_name.cpp(8,10): warning C4566: 由通用字符名称“\u00E2”表示的字符不能在当前代码页(936)中表示出来
+E:\Learning\C++\Primer_Plus\chapter3\Generic_character_name\generic_character_name.cpp(6,6): warning C4101: “körper”: 未引用的局部变量
+  Generic_character_name.vcxproj -> E:\Learning\C++\Primer_Plus\chapter3\Generic_character_name\Debug\Generic_character_name.exe

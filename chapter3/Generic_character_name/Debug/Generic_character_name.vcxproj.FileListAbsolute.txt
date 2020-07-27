@@ -1,0 +1,2 @@
+E:\Learning\C++\Primer_Plus\chapter3\Generic_character_name\Debug\Generic_character_name.exe
+E:\Learning\C++\Primer_Plus\chapter3\Generic_character_name\Debug\Generic_character_name.pdb

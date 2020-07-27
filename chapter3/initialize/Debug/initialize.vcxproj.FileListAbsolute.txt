@@ -1,0 +1,2 @@
+E:\Learning\C++\Primer_Plus\chapter3\initialize\Debug\initialize.exe
+E:\Learning\C++\Primer_Plus\chapter3\initialize\Debug\initialize.pdb

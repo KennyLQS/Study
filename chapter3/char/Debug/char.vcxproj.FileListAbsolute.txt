@@ -1,0 +1,2 @@
+E:\Learning\C++\Primer_Plus\chapter3\char\Debug\char.exe
+E:\Learning\C++\Primer_Plus\chapter3\char\Debug\char.pdb

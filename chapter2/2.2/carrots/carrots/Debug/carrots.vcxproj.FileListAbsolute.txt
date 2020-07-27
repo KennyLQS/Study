@@ -1,0 +1,2 @@
+E:\Learning\C++\VS\chapter2\2.2\carrots\carrots\Debug\carrots.exe
+E:\Learning\C++\VS\chapter2\2.2\carrots\carrots\Debug\carrots.pdb

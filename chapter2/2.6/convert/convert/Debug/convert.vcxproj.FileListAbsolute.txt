@@ -1,0 +1,2 @@
+E:\Learning\C++\VS\chapter2\2.6\convert\convert\Debug\convert.exe
+E:\Learning\C++\VS\chapter2\2.6\convert\convert\Debug\convert.pdb
